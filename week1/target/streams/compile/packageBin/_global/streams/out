@@ -1,0 +1,77 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/week1_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/week1Notes$Book$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/week1Notes$Book$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/test$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/test$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/week1Notes$Book.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/week1Notes$Book.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/week1Notes$JObj$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/week1Notes$JObj$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/randomTree$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/randomTree$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/week1Notes$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/week1Notes$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/test$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/test$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/week1Notes$JStr$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/week1Notes$JStr$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/week1Notes$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/week1Notes$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/week1Notes$JBool$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/week1Notes$JBool$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/randomTree$Leaf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/randomTree$Leaf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/randomTree$Inner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/randomTree$Inner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/week1Notes$JBool.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/week1Notes$JBool.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/week1Notes$JStr.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/week1Notes$JStr.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/week1Notes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/week1Notes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/randomTree$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/randomTree$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/randomTree$Generator$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/randomTree$Generator$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/week1Notes$JSeq.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/week1Notes$JSeq.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/week1Notes$JObj.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/week1Notes$JObj.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/test$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/test$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/week1Notes$JNum$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/week1Notes$JNum$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/week1Notes$JSON.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/week1Notes$JSON.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/randomTree$Leaf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/randomTree$Leaf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/randomTree$Tree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/randomTree$Tree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/test.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/test.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/randomTree$Inner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/randomTree$Inner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/week1Notes$JSeq$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/week1Notes$JSeq$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/week1Notes$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/week1Notes$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/randomTree$Generator$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/randomTree$Generator$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/week1Notes$JNull$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/week1Notes$JNull$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/randomTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/randomTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/week1Notes$JNum.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/week1Notes$JNum.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/week1Notes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/week1Notes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/randomTree$Generator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/randomTree$Generator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/randomTree$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/randomTree$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week1Package/test$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week1/target/scala-2.13/classes/week1Package/test$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

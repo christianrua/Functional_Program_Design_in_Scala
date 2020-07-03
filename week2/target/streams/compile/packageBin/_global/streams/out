@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week2/target/scala-2.13/week2_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week2/target/scala-2.13/classes/week2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week2/lazyEvaluation$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week2/target/scala-2.13/classes/week2/lazyEvaluation$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week2/intSets$NonEmpty.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week2/target/scala-2.13/classes/week2/intSets$NonEmpty.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week2/intSets$IntSet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week2/target/scala-2.13/classes/week2/intSets$IntSet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week2/intSets$NonEmpty$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week2/target/scala-2.13/classes/week2/intSets$NonEmpty$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week2/lazyEvaluation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week2/target/scala-2.13/classes/week2/lazyEvaluation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week2/intSets$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week2/target/scala-2.13/classes/week2/intSets$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week2/lazyEvaluation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week2/target/scala-2.13/classes/week2/lazyEvaluation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week2/Streams$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week2/target/scala-2.13/classes/week2/Streams$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week2/intSets.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week2/target/scala-2.13/classes/week2/intSets.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week2/intSets$Empty$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week2/target/scala-2.13/classes/week2/intSets$Empty$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	week2/Streams.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chr1st14n_ru4/development/scalaEPFL/Functional Program Design in Scala/week2/target/scala-2.13/classes/week2/Streams.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
